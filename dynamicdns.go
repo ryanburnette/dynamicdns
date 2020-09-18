@@ -7,7 +7,7 @@ import (
 	namecom "github.com/coolaj86/go-namedotcom/v4/namecom"
 	"github.com/joho/godotenv"
 	"github.com/robfig/cron/v3"
-	"github.com/ryanburnette/dynamicdns/ipify"
+	"git.ryanburnette.com/ryanburnette/dynamicdns/ipify"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-# dynamicdns
+# [dynamicdns](https://git.ryanburnette.com/ryanburnette/dynamicdns)
 
 A dynamic DNS service written in Go.
 
