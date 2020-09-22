@@ -8,5 +8,4 @@ require (
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/rdegges/go-ipify v0.0.0-20150526035502-2d94a6a86c40
 	github.com/robfig/cron/v3 v3.0.1
-	git.ryanburnette.com/ryanburnette/dynamicdns v0.1.1
 )
